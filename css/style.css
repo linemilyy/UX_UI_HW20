@@ -118,13 +118,7 @@ h3 {
   margin-top: 5%;
 }
 
-.col- img:hover {
-  transform: scale(1.5);
-}
 
-.col-sm img:hover {
-  transform: scale(1.5);
-}
 
 .col-md {
   padding-left: 20px;
